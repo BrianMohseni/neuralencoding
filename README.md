@@ -35,7 +35,7 @@ Easier said than done. The data we collect is VERY noisy, and very little in qua
 
 
 
-#The Data:
+# The Data:
 
 The Muse S Athena, which we will be using, has 4 EEG sensors (or electrodes). The data you will recieve is the raw microvolt data of the EEG. We will use fast fourier transforms to determine frequency bands.
 
@@ -50,7 +50,7 @@ On top of all this, we have built in tracking for artifact detections such as ja
 
 
 
-#The AI:
+# The AI:
 
 For the time being, we will be using the python library 'TensorFlow' to build the AI models required to classify our eeg data. 
 
