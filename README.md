@@ -3,11 +3,15 @@
 Welcome to the Neural Encoding Project! If you're reading this, it means you're embarking on a journey to build in a field that may have seemed like science fiction not long ago: **Brain-Computer Interfaces**.
 In this readme, we will go over a number of topics to get you caught up, so that you can start building.
 
+
+
 # Be careful:
 
 **In case of emergency, turn off and remove the device. Please double check to make sure device is turned off before removing. If you are allergic to silver, do NOT wear the device. If you are allergic to rubbing/medical alcohol, please do NOT use the device. Do not place FNIRS or red light sensors near eye. If, while using the device, you feel any discomfort (skin irriation, anxiety, or other), turn off and remove the device. Do NOT pressure ANYONE to keep wearing the device on for ANY reason.**
 
 We're batting 100 for now team, keep up the good standards in safety and ethics!
+
+
 
 # The Device:
 
@@ -29,6 +33,8 @@ When we build our models, our goal is to collect clean data we can use to train 
 
 Easier said than done. The data we collect is VERY noisy, and very little in quantity, but with patience comes the satisfying award of a working project!
 
+
+
 #The Data:
 
 The Muse S Athena, which we will be using, has 4 EEG sensors (or electrodes). The data you will recieve is the raw microvolt data of the EEG. We will use fast fourier transforms to determine frequency bands.
@@ -41,6 +47,8 @@ The device also has a red light sensor (660nm), which also is good at capturing 
 The device contains Accelerometer and Gyroscopic data, so feel free to use these.
 
 On top of all this, we have built in tracking for artifact detections such as jaw clenching and blinkinging, which we would otherwise need to filter out from our data by hand.
+
+
 
 #The AI:
 
