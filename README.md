@@ -7,7 +7,7 @@ In this readme, we will go over a number of topics to get you caught up, so that
 
 **In case of emergency, turn off and remove the device. Please double check to make sure device is turned off before removing. If you are allergic to silver, do NOT wear the device. If you are allergic to rubbing/medical alcohol, please do NOT use the device. Do not place FNIRS or red light sensors near eye. If, while using the device, you feel any discomfort (skin irriation, anxiety, or other), turn off and remove the device. Do NOT pressure ANYONE to keep wearing the device on for ANY reason.**
 
-batting 100 for now team, keep up the good standards in safety and ethics!
+We're batting 100 for now team, keep up the good standards in safety and ethics!
 
 # The Device:
 
