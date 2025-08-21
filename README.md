@@ -1,15 +1,15 @@
-#For Our Beginners:
+# For Our Beginners:
 
 Welcome to the Neural Encoding Project! If you're reading this, it means you're embarking on a journey to build in a field that may have seemed like science fiction not long ago: **Brain-Computer Interfaces**.
 In this readme, we will go over a number of topics to get you caught up, so that you can start building.
 
-#Be careful:
+# Be careful:
 
 **In case of emergency, turn off and remove the device. Please double check to make sure device is turned off before removing. If you are allergic to silver, do NOT wear the device. If you are allergic to rubbing/medical alcohol, please do NOT use the device. Do not place FNIRS or red light sensors near eye. If, while using the device, you feel any discomfort (skin irriation, anxiety, or other), turn off and remove the device. Do NOT pressure ANYONE to keep wearing the device on for ANY reason.**
 
 batting 100 for now team, keep up the good standards in safety and ethics!
 
-#The Device:
+# The Device:
 
 We will using a device named the Muse S Athena, of which we have two. The devices, which are built as fabric headbands, are worn around the head to collect signals from within the brain. 
 There are no chips that go **in** the brain in our lab. Instead, we rely on non-invasive devices, which sit on the skin rather than in the brain itself.
